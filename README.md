@@ -16,6 +16,9 @@ Prithvi is a full-stack web application built on the PERN stack (PostgreSQL, Exp
 
 Prithvi allows users to calculate their carbon footprint based on various parameters. It provides detailed insights and suggestions on how to reduce their carbon emissions.
 
+## Watch the Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/NNUIMpyxhGg)
 ## Features
 
 - User authentication and authorization
