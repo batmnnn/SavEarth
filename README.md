@@ -105,6 +105,11 @@ Follow these steps to set up the project locally:
 2. Choose whether you want to calculate the carbon footprint for a household or a business.
 3. Fill in the required information in the form.
 4. View the calculated carbon footprint and suggestions for reducing emissions.
+## Collaborators
+
+Thanks to the following people who have contributed to this project:
+
+- [Collaborator1](https://github.com/k-agg17)
 
 ## Motivation
 
