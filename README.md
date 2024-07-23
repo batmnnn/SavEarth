@@ -18,7 +18,7 @@ Prithvi allows users to calculate their carbon footprint based on various parame
 
 ## Watch the Demo Video
 
-[![Watch the video](https://youtu.be/NNUIMpyxhGg)
+[Watch the video](https://youtu.be/NNUIMpyxhGg)
 ## Features
 
 - User authentication and authorization
