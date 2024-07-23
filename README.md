@@ -107,12 +107,14 @@ Follow these steps to set up the project locally:
 
 ## Collaborators
 
-Thanks to the following people who have contributed to this project:
+Thanks to the following who have contributed to this project:
 
-<a href="https://github.com/k-agg17">
-  <img src="https://github.com/k-agg17.png" width="100" height="100" style="border-radius: 50%;" alt="Kavya Aggarwal"/>
-</a>
-<span>Kavya Aggarwal</span>
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/k-agg17" style="margin-right: 10px;">
+    <img src="https://github.com/k-agg17.png?size=100" style="border-radius: 50%; object-fit:cover;" width="100" height="100" alt="Kavya Aggarwal"/>
+  </a>
+  <span>Kavya Aggarwal</span>
+</div>
 
 ## Motivation
 
