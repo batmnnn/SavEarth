@@ -1,6 +1,6 @@
-# Prithvi
+# SavEarth
 
-Prithvi is a full-stack web application built on the PERN stack (PostgreSQL, Express, React, Node.js) designed to help households and businesses calculate their carbon footprints. This project was developed as a college project to promote environmental awareness and action.
+SavEarth is a full-stack web application built on the PERN stack (PostgreSQL, Express, React, Node.js) designed to help households and businesses calculate their carbon footprints. This project was developed as a college project to promote environmental awareness and action.
 
 ## Table of Contents
 
@@ -10,11 +10,10 @@ Prithvi is a full-stack web application built on the PERN stack (PostgreSQL, Exp
 - [Installation](#installation)
 - [Usage](#usage)
 - [Motivation](#motivation)
-- [License](#license)
 
 ## Introduction
 
-Prithvi allows users to calculate their carbon footprint based on various parameters. It provides detailed insights and suggestions on how to reduce their carbon emissions.
+SavEarth allows users to calculate their carbon footprint based on various parameters. It provides detailed insights and suggestions on how to reduce their carbon emissions.
 
 ## Watch the Demo Video
 
@@ -48,7 +47,7 @@ Follow these steps to set up the project locally:
 2. Navigate to the project directory:
 
    ```bash
-   cd prithvi
+   cd SavEarth
    ```
 
 3. Install backend dependencies:
@@ -105,11 +104,15 @@ Follow these steps to set up the project locally:
 2. Choose whether you want to calculate the carbon footprint for a household or a business.
 3. Fill in the required information in the form.
 4. View the calculated carbon footprint and suggestions for reducing emissions.
+
 ## Collaborators
 
 Thanks to the following people who have contributed to this project:
 
-- [Collaborator1](https://github.com/k-agg17)
+<a href="https://github.com/k-agg17">
+  <img src="https://github.com/k-agg17.png" width="100" height="100" style="border-radius: 50%;" alt="Kavya Aggarwal"/>
+</a>
+<span>Kavya Aggarwal</span>
 
 ## Motivation
 
